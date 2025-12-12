@@ -17,7 +17,7 @@ I have hands-on experience in real-world projects:
 
 - **BLUESHIELD** – Image detection system using OpenCV.  
 - **NeuroBloom** – Mental wellness platform addressing **depression, anxiety, and wellbeing**.  
-- **PlayHive Backend** – Multi-game platform backend with Java, SpringBoot, and MySQL.  
+- **PlayHive** – Multi-game platform backend with Java, SpringBoot, and MySQL.  
 
 I love combining **technical skills** with **creativity** to build solutions that are **both functional and engaging**.  
 
@@ -48,9 +48,9 @@ I love combining **technical skills** with **creativity** to build solutions tha
 
 ### 🚀 Projects
 <p align="center">
-  <a href="#"><b>Stellinte</b> – Image detection system using OpenCV.</a><br>
+  <a href="#"><b>BLUESHIELD</b> – Image detection system using OpenCV.</a><br>
   <a href="#"><b>NeuroBloom</b> – Mental wellness platform for depression & anxiety.</a><br>
-  <a href="#"><b>PlayHive Backend</b> – Multi-game platform backend using SpringBoot & MySQL.</a>
+  <a href="#"><b>PlayHive </b> – Multi-game platform backend using SpringBoot & MySQL.</a>
 </p>
 
 ---
