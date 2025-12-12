@@ -5,64 +5,60 @@
 </h1>
 
 <div align="center">
-🌟 **Full Stack Developer | Backend Enthusiast | Creative Problem Solver**  
-</div>
 
----
-
-## 📖 Table of Contents
-- [About Me](#💡-about-me)
-- [Tech Stack](#💻-tech-stack)
-- [Projects](#-projects)
-- [GitHub Stats](#📊-github-stats)
-- [GitHub Trophies](#🏆-github-trophies)
-- [Skills & Certifications](#🛠️-skills--certifications)
-- [Connect with Me](#🌐-connect-with-me)
+🌟 *Full Stack Developer | Backend Enthusiast | Creative Problem Solver*  
 
 ---
 
 ### 💡 About Me
-I’m a passionate **Full Stack Developer** focused on **backend systems with Java & SpringBoot**, creating **interactive and innovative projects**.  
+I’m a passionate *Full Stack Developer* focused on *backend systems with Java & SpringBoot, creating **interactive and innovative projects*.  
 
 I have hands-on experience in real-world projects:  
 
-- [**BLUESHIELD**](https://github.com/AkankshaSawant1610/BlueShield.git) – Image detection system using OpenCV.  
-- [**NeuroBloom**](https://github.com/AkankshaSawant1610/NeuroBloom.git) – Mental wellness platform for depression & anxiety.  
-- [**PlayHive**](https://github.com/AkankshaSawant1610/PLAYHIVEE.git) – Multi-game platform backend using SpringBoot & MySQL.  
+- *BLUESHIELD* – Image detection system using OpenCV.  
+- *NeuroBloom* – Mental wellness platform addressing *depression, anxiety, and wellbeing*.  
+- *PlayHive* – Multi-game platform backend with Java, SpringBoot, and MySQL.  
 
-I love combining **technical skills** with **creativity** to build solutions that are **both functional and engaging**.  
+I love combining *technical skills* with *creativity* to build solutions that are *both functional and engaging*.  
 
 ---
 
 ### 💻 Tech Stack
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=Spring&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/JPA-Hibernate-aca69f?style=for-the-badge&logo=Hibernate&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=Spring&logoColor=white" alt="SpringBoot" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/JPA-Hibernate-aca69f?style=for-the-badge&logo=Hibernate&logoColor=white" alt="Hibernate" /></a>
   <br>
-  <a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /></a>
   <br>
-  <a href="#"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/NoSQL-4DB33D?style=for-the-badge&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/NoSQL-4DB33D?style=for-the-badge&logoColor=white" alt="NoSQL" /></a>
   <br>
-  <a href="#"><img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" alt="GIT" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <br>
-  <a href="#"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/ChatGPT-1ABC9C?style=for-the-badge&logo=openai&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/ChatGPT-1ABC9C?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" /></a>
 </p>
 
 ---
 
 ### 🚀 Projects
 <p align="center">
-  <a href="https://github.com/AkankshaSawant1610/BlueShield.git" target="_blank"><b>BLUESHIELD</b></a> – Image detection system using OpenCV. <br>
-  <a href="https://github.com/AkankshaSawant1610/NeuroBloom.git" target="_blank"><b>NeuroBloom</b></a> – Mental wellness platform for depression & anxiety. <br>
-  <a href="https://github.com/AkankshaSawant1610/PLAYHIVEE.git" target="_blank"><b>PlayHive</b></a> – Multi-game platform backend using SpringBoot & MySQL.
+  <a href="https://github.com/AkankshaSawant1610/BlueShield.git" target="_blank">
+    <b>BLUESHIELD</b> – Image detection system using OpenCV.
+  </a><br>
+  <a href="https://github.com/AkankshaSawant1610/NeuroBloom.git" target="_blank">
+    <b>NeuroBloom</b> – Mental wellness platform for depression & anxiety.
+  </a><br>
+  <a href="https://github.com/AkankshaSawant1610/PLAYHIVEE.git" target="_blank">
+    <b>PlayHive</b> – Multi-game platform backend using SpringBoot & MySQL.
+  </a>
 </p>
+
 
 ---
 
@@ -83,16 +79,6 @@ I love combining **technical skills** with **creativity** to build solutions tha
 
 ---
 
-### 🛠️ Skills & Certifications
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-Expert-informational?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/SpringBoot-Advanced-informational?style=for-the-badge&logo=Spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-Intermediate-informational?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-Intermediate-informational?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
-
----
-
 ### 🌐 Connect with Me
 <p align="center">
   <a href="https://github.com/AkankshaSawant1610" target="_blank">
@@ -106,9 +92,4 @@ I love combining **technical skills** with **creativity** to build solutions tha
   </a>
 </p>
 
----
-
-### 👀 Visitors
-<p align="center">
-  ![Visitor Count](https://profile-counter.glitch.me/AkankshaSawant1610/count.svg)
-</p>
+</div>
