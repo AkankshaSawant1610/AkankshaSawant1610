@@ -15,7 +15,7 @@ I’m a passionate **Full Stack Developer** focused on **backend systems with Ja
 
 I have hands-on experience in real-world projects:  
 
-- **Stellinte** – Image detection system using OpenCV.  
+- **BLUESHIELD** – Image detection system using OpenCV.  
 - **NeuroBloom** – Mental wellness platform addressing **depression, anxiety, and wellbeing**.  
 - **PlayHive Backend** – Multi-game platform backend with Java, SpringBoot, and MySQL.  
 
